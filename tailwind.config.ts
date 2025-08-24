@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				/* Resume specific colors */
+				'resume-header': 'hsl(var(--resume-header))',
+				'resume-section': 'hsl(var(--resume-section))',
+				'resume-text': 'hsl(var(--resume-text))',
+				'resume-accent': 'hsl(var(--resume-accent))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
